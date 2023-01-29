@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Demexis
 - 👀 I’m interested in Game Development, Modding
-- 🌱 I’m currently learning .NET, WPF, Unity3D
+- 🌱 I’m currently learning Unity3D, .NET
 - 📫 How to reach me: devsor@inbox.lv
 
 <!---
