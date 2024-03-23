@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Demexis
-- 👀 I’m interested in Game Development, Modding
-- 🌱 I’m currently learning Unity3D, .NET
-- 📫 How to reach me: devsor@inbox.lv
+C# .NET programmer
 
-<!---
-Demexis/Demexis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently creating the private bots, graphical utilities and gaming frameworks.
+
+How to reach me: devsor@inbox.lv
